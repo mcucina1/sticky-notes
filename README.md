@@ -1,4 +1,4 @@
-# sticky-notes
+# Sticky Notes
 
 
 ## Project Description
